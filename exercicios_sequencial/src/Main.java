@@ -9,7 +9,8 @@ public class Main {
 		Scanner sc = new Scanner(System.in);
 		
 		double A, B, C, pi, r, triangulo, circulo, trapezio, quadrado, retangulo;
-		
+
+		System.out.printf("Digite a medida dos lados: ");
 		A = sc.nextDouble();
 		B = sc.nextDouble();
 		C = sc.nextDouble();
