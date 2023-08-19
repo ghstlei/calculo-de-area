@@ -10,7 +10,7 @@ public class Main {
 		
 		double A, B, C, pi, r, triangulo, circulo, trapezio, quadrado, retangulo;
 
-		System.out.printf("Digite a medida dos lados: ");
+		System.out.println("Digite a medida dos lados: ");
 		A = sc.nextDouble();
 		B = sc.nextDouble();
 		C = sc.nextDouble();
